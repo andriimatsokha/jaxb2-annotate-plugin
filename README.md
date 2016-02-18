@@ -3,6 +3,11 @@ jaxb2-annotate-plugin
 
 JAXB2 Annotate Plugin is capable of adding arbitrary annotations to the generated sources.
 
+Status
+------
+
+[![Build Status](https://travis-ci.org/andriimatsokha/jaxb2-annotate-plugin.png?branch=master)](https://travis-ci.org/andriimatsokha/jaxb2-annotate-plugin)
+
 Usage overview
 --------------
 
