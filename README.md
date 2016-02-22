@@ -1,5 +1,6 @@
 jaxb2-annotate-plugin
 =====================
+_This is an augmented version of [https://github.com/highsource/jaxb2-annotate-plugin](https://github.com/highsource/jaxb2-annotate-plugin) plugin._
 
 JAXB2 Annotate Plugin is capable of adding arbitrary annotations to the generated sources.
 
